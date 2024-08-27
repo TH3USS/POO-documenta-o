@@ -28,3 +28,5 @@ Classe selada: classe que não pode ser herdada
   metodo selado: metodo que não pode ser sobrescrito
 
 Classe Object: no C# todas as classes herdam indiretamente da classe object, já vindo com metodos padroes
+
+Interface: é um contrato implementado por uma classe, tem metodos abstratos e tambem não pode ser instanciada, uma interface obriga a classe que está a implementando a implementar tudo que não há corpo nela, caso um metodo tenha corpo, ele não será obrigatorio
